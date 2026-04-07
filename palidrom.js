@@ -3,3 +3,4 @@ function isPalidrome(str){
     return str === reverse;
 }
 console.log(isPalidrome("madam"));
+// this is palindrome check fn
