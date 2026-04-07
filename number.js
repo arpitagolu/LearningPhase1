@@ -7,4 +7,4 @@ function findMax(...arr){
     return max;
 }
 console.log(findMax("1","2","3","63","64","87","92"))
-
+// finding the max. num.

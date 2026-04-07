@@ -7,3 +7,4 @@ function isPrime(num){
     return true;
 } 
 console.log(isPrime("3","4","43","55","85","56","89"))
+// is prime or not.
